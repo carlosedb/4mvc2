@@ -1,0 +1,23 @@
+{
+  "name": "4mvc2",
+  "version": "1.0.0",
+  "description": "Teste",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosedb/4mvc2.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Carlos Brum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosedb/4mvc2/issues"
+  },
+  "homepage": "https://github.com/carlosedb/4mvc2#readme"
+}
